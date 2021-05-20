@@ -1,4 +1,4 @@
-- 👋 Greetings, I’m Rudy@kushuk
+- 👋 Greetings, I’m Rudolph@kushuk
 - 👀 I’m interested in Software Development and my skillset is in C/C++.
 - 🌱 I’m currently learning Web Devolopment Front-end with Freecodecamp.org
 - 💞️ I’m looking to collaborate on ...pending.
